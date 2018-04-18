@@ -24,8 +24,8 @@ See [Building](docs/Building.md) for build instructions.
 
 Got questions? Please check out the
 [FAQ](http://github.com/jackpal/Android-Terminal-Emulator/wiki/Frequently-Asked-Questions)
-and/or the [Google+ Android Terminal Emulator Community](https://plus.google.com/u/0/communities/106164413936367578283)
-before emailing or adding an issue. Thanks!
+and/or the [Google+ Android Terminal Emulator Community](https://plus.google.com/u/0/communities/106164413936367574
+قبل از ارسال یا اضافه کردن یک مسئله با تشکر!
 
 Please see the
 [Recent Updates](http://github.com/jackpal/Android-Terminal-Emulator/wiki/Recent-Updates)
